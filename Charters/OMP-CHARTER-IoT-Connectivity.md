@@ -20,9 +20,9 @@ The work packages described in this document illustrate the main goals of this W
 ## Approach and Work Packages
 For this Working Group, two work packages have been defined. Both address topics that are common to most manufacturing processes. The connectivity to green and brown field is the first key enabler for the IIoT solution. The analysis of the collected data is quite homogeneous in the field of manufacturing (mostly time series data from devices that must be correlated with reference data from other systems) and therefore can be addressed with a generic analytics framework. Figure 1 shows the defined work packages with their goals, scope, content and output.
 
-> Note: ADD IMAGE 1
+![Work Package](images/iot-connectivity-work-packages.png)
 
-> Note: ADD DIAGRAMA 2
+![Diagram](images/iot-connectivity-diagram.png)
 
 3. **Copyright Policy**. Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code. The copyright mode for this Working Group is: _**[Check one box]**_
 
